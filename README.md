@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecastin
 
 Supplied data: **73,100 rows × 15 columns**, covering 2022-01-01 to 2024-01-01.
 
-> The dataset is synthetic. Verify the current Kaggle license before publishing the raw CSV publicly.
+> The dataset is synthetic. 
 
 ## Features
 - Data validation and cleaning
